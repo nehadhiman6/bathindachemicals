@@ -1,0 +1,2 @@
+d:\wamp64\bin\php\php8.1.0\php artisan migrate
+d:\wamp64\bin\php\php8.1.0\php c:\composer\composer.phar install

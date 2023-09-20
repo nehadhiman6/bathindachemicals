@@ -1,0 +1,9 @@
+[
+    {"src":"http://127.0.0.1:8000/shared-attachments-thumbnail/18",
+    "thumb":"http://127.0.0.1:8000/shared-attachments-thumbnail/18",
+    "downloadUrl":"http://127.0.0.1:8000/shared-attachments/18"
+}
+    ,{"src":"https://www.africau.edu/images/default/sample.pdf",
+    "iframe":true,
+    "downloadUrl":"http://127.0.0.1:8000/shared-attachments/25"
+}]
